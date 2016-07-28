@@ -1,0 +1,12 @@
+{
+    "name": "menory/menory-framework",
+    "authors": [
+        {
+            "name": "Menory",
+            "email": "hhw_menory@yeah.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
