@@ -1,0 +1,6 @@
+!.gitignore
+/var/*
+!/var/.gitignore
+/etc/*
+!/etc/.gitignore
+sftp-config.json
